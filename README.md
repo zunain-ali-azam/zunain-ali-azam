@@ -1,93 +1,83 @@
-<!-- Intro  -->
-<h1 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=300&color=3368FF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Zunain+Ali+Azam!" alt="Zunain Ali Azam" />
-        </a>
-</h1>
+<div>
 
-<div align="center">
-        
-<a href="https://twitter.com/zunain_azam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/zunain-ali-azam-4a985421b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-<a href="https://www.facebook.com/zunain.azam18/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/zunain._.azam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<h1>Hi, I'm Zunain Ali Azam <img src="wave.gif" width="32" alt="waving hand" /></h1>
 
-<div/>
+<p><b>Full-Stack Developer</b> · Scalable Web Apps · AI Workflow Automation · Performance & SEO</p>
 
-<div align="center">
-        
 <p>
-        <samp>「 As a dedicated Web Developer based in Karachi, Pakistan, I'm deeply committed to expanding my expertise in both front-end and back-end development. With a diverse skill set encompassing a range of programming languages, frameworks, and databases, I aim to contribute innovatively to every project I undertake. 」
-        </samp>
+  <a href="https://zunainaliazam.vercel.app"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/zunain-azam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/zunain_azam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:zunainazam456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cal.com/zunain-ali-azam-gtyskl/30min?overlayCalendar=true"><img src="https://img.shields.io/badge/Book_a_call-292929?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
 </p>
 
-<div/>
+</div>
+
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
-   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>
-        
-<div/>
+I'm a full-stack developer from Karachi 🇵🇰. I build scalable web apps, automate workflows with AI, and make sites fast enough to rank. Basically, I take messy, slow, manual things and turn them into software that just works.
 
-<div align="left">
-<h3><samp> - TechStack:<samp/><h3/>
+For example, I cut the build size of **Estenarh**, one of my company's projects, from 16 MB to under 5 MB. That improved its performance by 60% on mobile and 42% on desktop.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-<div/>
-  
+### 🔭 Right now
 
-<h3><samp> - My Github Stats:<samp/><h3/>
+- Co-building **[Calyndrs](https://calyndrs.app)**, an events platform, as a co-founder. Product calls during the day, Playwright tests at night.
+- Shipping healthcare, retail and barbershop SaaS at **IOMechs**, in English *and* Arabic (RTL is harder than it looks).
+- Tinkering with **[YouTube to Blog](https://github.com/zunain-ali-azam/youtube-to-blog-automation)**: video in, LLM-written article out, straight to your CMS as a draft.
+- Learning **FastAPI** and **AWS**, and working toward the AWS Cloud Practitioner certification.
+
+⚡ **Fun fact:** I've built the same screens twice, once left to right and once right to left, so I'm not afraid of `dir="rtl"`.
+
+### 🛠️ Things I've made
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[YouTube to Blog](https://github.com/zunain-ali-azam/youtube-to-blog-automation)** | Turns any YouTube video into a review-ready blog post with SEO metadata, and sends it to your CMS as a draft | Python · Typer · any LLM |
+| **[PropertEase](https://github.com/zunain-ali-azam/PropertEase)** | Real estate marketplace with map search, saved listings and live buyer–seller chat | React · Node.js · MongoDB · WebSockets |
+| **[Medical NER with BERT](https://github.com/zunain-ali-azam/Medical-Data-NER-with-BERT)** | Fine-tuned model that pulls medical entities out of clinical notes into structured JSON | Python · Hugging Face |
+| **[Portfolio](https://zunainaliazam.vercel.app)** | My personal site, where I also write | Astro · Tailwind CSS · MDX |
+
+### 🧰 Tech stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, HTML, CSS |
+| **Frontend** | Next.js, Angular, React, Astro, Tailwind CSS, RxJS, React Query, Redux |
+| **Backend** | Node.js, Nest.js, Express, REST APIs, WebSockets |
+| **Databases** | MongoDB, MySQL, Prisma ORM, Firebase |
+| **Testing** | Vitest, Playwright, React Testing Library, MSW |
+| **AI & automation** | LLM integrations, Hugging Face, MediaPipe |
+| **DevOps & tools** | Docker, Turborepo, Git, Vercel, CI/CD, Linux |
+
+### ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- First post coming soon. Follow along on [my blog](https://zunainaliazam.vercel.app/blog).
+<!-- BLOG-POST-LIST:END -->
+
+### 💬 Talk to me about
+
+Building web apps that scale, AI workflow automation, performance optimization, technical SEO and ranking, and testing that actually catches bugs. I'm open to remote roles. [Say hi](mailto:zunainazam456@gmail.com) or [book a 30-minute call](https://cal.com/zunain-ali-azam-gtyskl/30min?overlayCalendar=true).
+
+<br>
+
 <div>
-<p >
-<a href="https://github.com/ZunainAliAzam">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunainAliAzam&theme=radical&border=7F3FBF&background=0D1117" alt="Zunain's Github streak"/>
-</a>
-        <a href="https://github.com/ZunainAliAzam"><img alt="Zunain's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZunainAliAzam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="42.5%"/>
-        </a>
-</p>
-        <p>
-          <a href="https://github.com/ZunainAliAzam">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZunainAliAzam&theme=radical" alt="Zunain's GitHub Contribution"/>
-          </a>
-        </p>
-<div/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=zunain-ali-azam&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zunain-ali-azam&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zunain-ali-azam&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+    <img height="165" src="https://streak-stats.demolab.com?user=zunain-ali-azam&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=59636E" alt="GitHub streak" />
+  </picture>
+</div>
 
-<a> 
-    <a href="https://github.com/ZunainAliAzam"><img alt="Zunain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZunainAliAzam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <br/>
-</a>
+<br>
 
-![Zunain's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZunainAliAzam&custom_title=Zunain's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ZunainAliAzam">
-
-</a>
-<a href="https://github.com/ZunainAliAzam?tab=followers"><img src="https://img.shields.io/github/followers/ZunainAliAzam?label=Followers&style=social" alt="GitHub Badge"></a>
-<!---
-ZunainAzam19/ZunainAzam19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zunain-ali-azam/zunain-ali-azam/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/zunain-ali-azam/zunain-ali-azam/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</div>
