@@ -53,7 +53,8 @@ For example, I cut the build size of **Estenarh**, one of my company's projects,
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- First post coming soon. Follow along on [my blog](https://zunainaliazam.vercel.app/blog).
+- [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.medium.com/how-to-set-up-the-google-maps-api-in-your-web-application-5fb1b4b6fccc?source=rss-e9d19ccb9799------2)
+- [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.vercel.app/blog/setup-google-maps-api-web-app)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💬 Talk to me about
