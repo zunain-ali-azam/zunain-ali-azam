@@ -15,6 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zunainaliazam.vercel.app/rss.xml,https://zunainaliazam.medium.com/feed"
+          feed_list: "https://zunainaliazam.vercel.app/rss.xml"
           max_post_count: 5
           commit_message: "Update latest blog posts"

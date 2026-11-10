@@ -53,7 +53,6 @@ For example, I cut the build size of **Estenarh**, one of my company's projects,
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.medium.com/how-to-set-up-the-google-maps-api-in-your-web-application-5fb1b4b6fccc?source=rss-e9d19ccb9799------2)
 - [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.vercel.app/blog/setup-google-maps-api-web-app)
 <!-- BLOG-POST-LIST:END -->
 
@@ -71,14 +70,5 @@ Building web apps that scale, AI workflow automation, performance optimization, 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zunain-ali-azam&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
     <img height="165" src="https://streak-stats.demolab.com?user=zunain-ali-azam&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=59636E" alt="GitHub streak" />
-  </picture>
-</div>
-
-<br>
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zunain-ali-azam/zunain-ali-azam/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/zunain-ali-azam/zunain-ali-azam/output/github-snake.svg" alt="Snake eating my contribution graph" />
   </picture>
 </div>
