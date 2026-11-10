@@ -7,5 +7,5 @@
 </style>
 <rect width="495" height="195" rx="4.5" fill="#FFFFFF"/>
 <text x="25" y="35" class="title">GitHub Stats</text>
-<text x="25" y="70" class="label">Total stars:</text><text x="300" y="70" class="value">0</text><text x="25" y="95" class="label">Commits (last year):</text><text x="300" y="95" class="value">406</text><text x="25" y="120" class="label">Pull requests:</text><text x="300" y="120" class="value">17</text><text x="25" y="145" class="label">Issues:</text><text x="300" y="145" class="value">0</text><text x="25" y="170" class="label">Contributed to:</text><text x="300" y="170" class="value">2</text>
+<text x="25" y="70" class="label">Total stars:</text><text x="300" y="70" class="value">0</text><text x="25" y="95" class="label">Commits (last year):</text><text x="300" y="95" class="value">407</text><text x="25" y="120" class="label">Pull requests:</text><text x="300" y="120" class="value">7</text><text x="25" y="145" class="label">Issues:</text><text x="300" y="145" class="value">0</text><text x="25" y="170" class="label">Contributed to:</text><text x="300" y="170" class="value">0</text>
 </svg>
