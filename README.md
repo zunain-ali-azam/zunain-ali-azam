@@ -53,6 +53,7 @@ For example, I cut the build size of **Estenarh**, one of my company's projects,
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Billing Error OR_BACR2_59: How I Got Google Maps Billing Working With a Debit Card](https://zunainaliazam.vercel.app/blog/google-cloud-billing-error-or-bacr2-59)
 - [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.vercel.app/blog/setup-google-maps-api-web-app)
 <!-- BLOG-POST-LIST:END -->
 
