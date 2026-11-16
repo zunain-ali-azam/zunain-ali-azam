@@ -53,6 +53,7 @@ For example, I cut the build size of **Estenarh**, one of my company's projects,
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy an MVP on AWS Amplify and Lightsail: Monorepo, CI, S3 and a Dev/Prod Split](https://zunainaliazam.vercel.app/blog/deploy-mvp-on-aws-amplify-and-lightsail)
 - [Vercel and Render vs AWS for a Startup MVP: What the Free Tiers Really Cost](https://zunainaliazam.vercel.app/blog/vercel-render-vs-aws-for-startup-mvp)
 - [Google Cloud Billing Error OR_BACR2_59: How I Got Google Maps Billing Working With a Debit Card](https://zunainaliazam.vercel.app/blog/google-cloud-billing-error-or-bacr2-59)
 - [How to Set Up the Google Maps API in Your Web Application](https://zunainaliazam.vercel.app/blog/setup-google-maps-api-web-app)
